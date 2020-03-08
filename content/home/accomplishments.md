@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Chinese Academy of Sciences"
   organization_url = "http://english.cas.cn/"
-  title = "CAS President’s International Fellowship Initiative (PIFI)"
+  title = "CAS President's International Fellowship Initiative (PIFI)"
   url = "http://english.cas.cn/cooperation/fellowships/201503/t20150313_145274.shtml"
   certificate_url = ""
-  date_start = "2019-1-01"
+  date_start = "2019-01-01"
   date_end = ""
   description = "The CAS President’s International Fellowship for Postdoctoral Researchers supports promising young international scientists to conduct research at CAS-affiliated institutions for 1-2 years."
 

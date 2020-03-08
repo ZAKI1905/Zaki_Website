@@ -38,11 +38,12 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2012-09-20"
   date_end = "2017-07-31"
-  description = """Taught physics courses to undergraduate students. Course grader for graduate students."""
+  description = """Taught physics courses to undergraduate students. Course grader for graduate students.
   Responsibilities include:
   
   * Holding Discussion Sessions
   * Holding Office Hours
   * Grading Homework
   * Proctoring & Grading Exams
+  """
 +++
