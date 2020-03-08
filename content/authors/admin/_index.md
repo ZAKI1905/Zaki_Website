@@ -26,13 +26,6 @@ interests:
 - Neutrino
 - C++/Python Programming
 
-hobbies:
-- Philosophy
-- Chinese
-- Swimming
-- Cooking
-- Gardening
-
 
 education:
   courses:
