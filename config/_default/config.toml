@@ -19,6 +19,9 @@ copyright = "&copy; {year}"
 ## Advanced options below ##
 ############################
 
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = "UA-122308979-1"
+
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
