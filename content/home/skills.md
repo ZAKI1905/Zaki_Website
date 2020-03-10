@@ -21,12 +21,6 @@ subtitle = ""
   description = "3 years of experience"
 
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-  description = ""
-
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
@@ -51,14 +45,15 @@ subtitle = ""
   description = "" 
 
 [[feature]]
+  icon = "root"
+  icon_pack = "fab"
+  name = "Root"
+  description = "" 
+
+[[feature]]
   icon = "mathematica"
   icon_pack = "fab"
   name = "Mathematica"
   description = ""  
-
-[[feature]]
-  icon = "root"
-  icon_pack = "fab"
-  name = "Root"
-  description = ""  
+ 
 +++

@@ -4,6 +4,8 @@ date = "2020-01-07"
 
 authors = ["Jared A. Evans", "Philip Tanedo", "Mohammadreza Zakeri"]
 
+featured = true
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -53,6 +55,5 @@ url_source = ""
 
 math = true
 highlight = true
-featured = true
 
 +++
