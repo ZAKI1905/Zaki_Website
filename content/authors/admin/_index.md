@@ -15,10 +15,11 @@ role: Postdoctoral Researcher of Particle Physics
 # Organizations/Affiliations
 organizations:
 - name: Institute of Theoretical Physics, Chinese Academy of Sciences
-  url: "http://english.itp.cas.cn"
+  url: http://english.itp.cas.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is focused primarily on models beyond the Standard Model (SM), designed for the purpose of explaining the nature of Dark Matter (DM) and the origin of neutrino mass. I work on gauge extensions of the SM, flavor physics, radiative processes, direct and indirect signatures of DM in experiments. My work also involves testing various models using the data from particle colliders such as the LHC. I also analyze the results from cosmic ray detectors like DAMPE, and AMS-02 to constrain new models.
+bio: 
+My research is focused primarily on models beyond the Standard Model (SM), designed for the purpose of explaining the nature of Dark Matter (DM) and the origin of neutrino mass. I work on gauge extensions of the SM, flavor physics, radiative processes, direct and indirect signatures of DM in experiments. My work also involves testing various models using the data from particle colliders such as the LHC. I also analyze the results from cosmic ray detectors like DAMPE, and AMS02 to constrain new models.
 
 interests:
 - Particle Physics
