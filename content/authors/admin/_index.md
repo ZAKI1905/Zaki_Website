@@ -64,6 +64,10 @@ social:
   icon_pack: fab
   link: https://github.com/ZAKI1905
 
+- icon : publons
+  icon_pack : ai
+  link : https://publons.com/researcher/3461554/mohammadreza-zakeri/
+
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MR_Zakeri
